@@ -30,6 +30,13 @@
   ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
   
 </p>
+<br>
+<p>
+  <h2> 📫 Get in touch </h2>
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffaeloliveira-/) 
+  
+  or send me a message on [email](mailto:raffaeloliveirap@gmail.com). 
+</p>
 
 
