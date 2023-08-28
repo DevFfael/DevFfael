@@ -18,16 +18,16 @@
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Taillwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white)
+  
   
   ![PHP](https://img.shields.io/badge/php-7454c4?&style=for-the-badge&logo=php&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  ![Taillwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
   ![C](https://img.shields.io/badge/C_Sharp-ad2cc7?style=for-the-badge&logo=c&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
+  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
   
 </p>
 <br>
