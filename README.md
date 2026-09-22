@@ -1,34 +1,50 @@
 <p>
-  <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> Hey, I'm Raffael Olveira! </h1>   
-  <p> I'm passionate about technologies and love to learn new things! 
+  <h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> Hey, I'm Raffael Pedroso! </h1>   
+  <p> Front-End Software Engineer focused on React.js, TypeScript and Microfrontend architecture (Module Federation). Also comfortable tackling FullStack challenges (Java, Node.js).
   
-  <b> 🔭 I’m currently looking for new opportunities. </b> <br>
-  <b> 🌱 I’m currently learning React and Vue.JS </b>
+  <b> 🔭 I'm currently looking for new opportunities as a Mid-Level/Senior Developer. </b> <br>
+  <b> 🎓 Postgraduate in UX Engineering — PUC Minas. </b> <br>
+  <b> 🌱 Currently deepening my back-end and cloud (AWS) knowledge. </b>
 </p>
 
 <br>
 
 <p>
-  <h2> ⚡ Tech Skills </h2>
-  <p> Here are a few things I've picked up along my learning journey to become a Developer. </p>
+  <h2> ⚡ Tech Stack </h2>
+  <p> Technologies and tools I work with day to day. </p>
 
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <h3>Front-End</h3>
   
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![NodeJS](https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white)
-  
-  
-  ![PHP](https://img.shields.io/badge/php-7454c4?&style=for-the-badge&logo=php&logoColor=white) 
-  ![Taillwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
-  ![C](https://img.shields.io/badge/C_Sharp-ad2cc7?style=for-the-badge&logo=c&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
-  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Module Federation](https://img.shields.io/badge/Module_Federation-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+  <h3>Styling</h3>
+
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+  <h3>State & Data</h3>
+
+  ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+  ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+  ![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+  <h3>Back-End & FullStack</h3>
+
+  ![Node.js](https://img.shields.io/badge/Node.js-239120?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+  <h3>Data & DevOps</h3>
+
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
 </p>
 <br>
 <p>
@@ -38,5 +54,3 @@
   
   or send me a message on [email](mailto:raffaeloliveirap@gmail.com). 
 </p>
-
-
